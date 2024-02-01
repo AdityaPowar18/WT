@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl "href="Rule.xsl" ?> 
+<student> 
+<s> 
+<name> Aditya Powar </name> 
+<branch> CSE </branch> 
+<age> 18 </age> 
+<city> Kolhapur </city> 
+</s> 
+<s> 
+<name> Omkar Adagale </name> 
+<branch> CSE </branch> 
+<age> 19 </age> 
+<city> Gandhinagar </city> 
+</s> 
+<s> 
+<name> Atharva Patil </name> 
+<branch> CSE </branch> 
+<age> 19 </age> 
+<city> Mumbai </city> 
+</s> 
+<s> 
+<name> Rohit Desai </name> 
+<branch> CSE </branch> 
+<age> 19 </age> 
+<city> Satara </city> 
+</s> 
+<s> 
+<name> Aditya Deshmukh </name> 
+<branch> IT</branch> 
+<age> 20 </age> 
+<city> Indore </city> 
+</s> 
+</student> 
